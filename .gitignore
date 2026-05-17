@@ -1,0 +1,25 @@
+﻿# Build outputs
+*.o
+*.d
+*.elf
+*.hex
+*.bin
+*.axf
+*.out
+*.map
+*.lst
+
+# IDE
+*.uvguix.*
+*.uvoptx
+*.scvd
+JLinkLog.txt
+JLinkSettings.ini
+
+# Debug
+*.crf
+*.dni
+
+# OS
+Thumbs.db
+Desktop.ini
